@@ -1,4 +1,4 @@
-# Template: Soccer: Players & Teams
+# Template: Soccer, Players & Teams
 
 ASP.NET Core MVC template application with SQLite with:
 
