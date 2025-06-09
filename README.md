@@ -20,4 +20,4 @@ ASP.NET Core MVC template application with SQLite with:
 
 ## Screenshots
 
-![Screenshot-2025-06-09-162145](https://github.com/user-attachments/assets/b25a027d-807a-4665-996e-dbf7e9f9e479)
+![Screenshot-2025-06-09-161844](https://github.com/user-attachments/assets/f09e4ed3-35b2-4330-8d43-32e2351d630b)
