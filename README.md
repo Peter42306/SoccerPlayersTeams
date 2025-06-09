@@ -1,4 +1,4 @@
-# Soccer Players & Teams Demo App
+# Template: Soccer: Players & Teams
 
 ASP.NET Core MVC template application with SQLite with:
 
